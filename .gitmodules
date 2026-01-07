@@ -1,6 +1,7 @@
 [submodule "config"]
 	path = config
 	url = https://github.com/DiedeApers/MagicMirrorConfig.git
+	branch = main
 [submodule "modules/MMM-SL-PublicTransport"]
 	path = modules/MMM-SL-PublicTransport
 	url = https://github.com/boghammar/MMM-SL-PublicTransport.git
